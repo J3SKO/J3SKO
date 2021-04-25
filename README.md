@@ -22,7 +22,7 @@
 - 🔧 I’m currently working for a refinery in northern Germany  
   
 
-- 🏖️ In my spare time, i work on [HID8](https://github.com/hid8) and [Minecraft Legend](https://github.com/playlegend) 
+- 🏖️ In my spare time, i work on [HID8](https://github.com/hid8)
 
 <br/>  
 
