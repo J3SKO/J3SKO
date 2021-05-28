@@ -55,12 +55,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=J3SKO&show_icons=true&count_private=true&hide_border=true" style="width: 100%" />
 </div>
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=J3SKO&&style=flat-square)  
-
-
-
 <br />
 
 ----
