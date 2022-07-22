@@ -19,10 +19,10 @@
 
 <br/>  
 
-- 🔧 I’m currently working for a refinery in northern Germany  
+- 🔧 I’m currently working in a refinery in northern Germany  
   
 
-- 🏖️ In my spare time, i work on [HID8](https://github.com/hid8)
+- 🏖️ In my spare time, i work on [HID8](https://github.com/hid8) and other projects
 
 <br/>  
 
@@ -50,12 +50,9 @@
 <br/>  
 
 
-## Github Stats  
+## Certifications
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=J3SKO&show_icons=true&count_private=true&hide_border=true" style="width: 100%" />
+<a href="https://www.credly.com/badges/4a282a25-664f-450d-9907-5e13cd1cd076/public_url" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="width: 10vw" />
+</a>
 </div>
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
