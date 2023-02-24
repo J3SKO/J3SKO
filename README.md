@@ -18,10 +18,6 @@
   
 
 <br/>  
-
-- 🔧 I’m currently working in a refinery in northern Germany  
-  
-
 - 🏖️ In my spare time, i work on [HID8](https://github.com/hid8) and other projects
 
 <br/>  
